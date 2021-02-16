@@ -22,6 +22,7 @@ function App() {
     }
     return (
         <div>
+            <h1>RISC OS Artworks Viewer</h1>
             <input type="file" onChange={loadFile} />
             <OutlineComponent buffer={buffer} />
             <ShadedComponent buffer={buffer} />
