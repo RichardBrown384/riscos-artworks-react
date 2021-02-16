@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/riscos-artworks-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/riscos-artworks-react/static/js/main.9ff7d4e8.chunk.js",
+    "main.js.map": "/riscos-artworks-react/static/js/main.9ff7d4e8.chunk.js.map",
+    "runtime-main.js": "/riscos-artworks-react/static/js/runtime-main.5a503f6d.js",
+    "runtime-main.js.map": "/riscos-artworks-react/static/js/runtime-main.5a503f6d.js.map",
+    "static/js/2.443946a9.chunk.js": "/riscos-artworks-react/static/js/2.443946a9.chunk.js",
+    "static/js/2.443946a9.chunk.js.map": "/riscos-artworks-react/static/js/2.443946a9.chunk.js.map",
+    "index.html": "/riscos-artworks-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/riscos-artworks-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.443946a9.chunk.js.LICENSE.txt": "/riscos-artworks-react/static/js/2.443946a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a503f6d.js",
+    "static/js/2.443946a9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9ff7d4e8.chunk.js"
+  ]
+}
