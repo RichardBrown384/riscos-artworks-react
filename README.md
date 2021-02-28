@@ -11,7 +11,7 @@ Hosted using Github Pages for demonstration purposes [here][github-pages].
 Large parts of the file format aren't well understood and neither is how exactly Artworks traverses the tree when rendering.
 Current status fits some of the available evidence but does not work in all cases.
 
-Project is offered as-is and as tool for making further observations and improvements.
+Project is offered as-is and as a tool for making further observations and improvements.
 
 ---
 [riscos-artworks-js]: https://github.com/RichardBrown384/riscos-artworks-js
